@@ -1,0 +1,304 @@
+body {
+    background-color: #935FD3;
+}
+
+#box {
+    width: 375px;
+    height: 584px;
+    border: 1px solid transparent;
+    margin: auto;
+    background-color: white;
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+#profile {
+    width: 327px;
+    height: 48px;
+    margin: 24px 16px 24px 24px;
+
+}
+
+#profile img {
+    width: 48px;
+    height: 48px;
+    text-align: left;
+}
+
+#nome {
+    display: inline-block;
+    position: absolute;
+    font-family: 'Heebo', sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+    color: #38343D;
+    font-style: bold;
+    font-weight: 700;
+    text-align: left;
+    translate: 8px;    
+}
+
+#email {
+    display: inline-block;
+    position: absolute;
+    text-align: left;
+    font-family: 'Heebo', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #686071;
+    margin-top: 29px;
+    translate: 8px;
+}
+
+hr {
+    border: 1px solid #F4EFFA;
+    width: 327px;
+    height: 0px;
+}
+
+#box2 {
+    position: relative;
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #797085;
+    line-height: 100%;
+    margin: 16px 24px 16px 24px;
+    width: 327px;
+    height: 472px;
+    margin: auto;
+    background-color: white;
+    border-radius: 5px;
+}
+
+/* 1ª parte (Dados Pessoais e Info de Login) */
+
+#User {
+    position: absolute;
+    margin: left;
+    color: #797085;
+}
+
+#Clicar {
+    color: #797085;
+    position: absolute;
+    margin: auto;
+    box-sizing:border-box;
+    inset-inline-end: 0;
+    inline-size: 18px;
+
+}
+
+#Dados {
+    position: relative;
+    margin-left: 28px;
+    width: 275px;
+    height: 20px;
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #38343D;
+    text-transform: capitalize;
+}
+
+#Key {
+    position: absolute;
+    margin-top: 16px;
+    color: #797085;
+}
+
+#Clicar2 {
+    color: #797085;
+    margin-top: 16px;
+    position: absolute;
+    box-sizing:border-box;
+    inset-inline-end: 0;
+    inline-size: 18px;
+}
+
+#Login {
+    position: relative;
+    margin-left: 28px;
+    margin-top: 16px;
+    width: 275px;
+    height: 20px;
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #38343D;
+    text-transform: capitalize;
+}
+
+/* 2ª parte (Notificações e Acessibilidade) */
+#Sound {
+    position: absolute;
+    margin: left;
+    color: #797085;
+}
+
+#Clicar3 {
+    color: #797085;
+    position: absolute;
+    margin: auto;
+    box-sizing:border-box;
+    inset-inline-end: 0;
+    inline-size: 18px;
+
+}
+
+#Notificação {
+    position: relative;
+    margin-left: 28px;
+    width: 275px;
+    height: 20px;
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #38343D;
+    text-transform: capitalize;
+}
+
+#Person {
+    position: absolute;
+    margin-top: 16px;
+    color: #797085;
+}
+
+#Clicar4 {
+    color: #797085;
+    margin-top: 16px;
+    position: absolute;
+    box-sizing:border-box;
+    inset-inline-end: 0;
+    inline-size: 18px;
+}
+
+#Aces {
+    position: relative;
+    margin-left: 28px;
+    margin-top: 16px;
+    width: 275px;
+    height: 20px;
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #38343D;
+    text-transform: capitalize;
+}
+
+/* 3ª parte (Notificações e Acessibilidade) */
+
+#Device {
+    position: absolute;
+    margin: left;
+    color: #797085;
+}
+
+#Clicar5 {
+    color: #797085;
+    position: absolute;
+    margin: auto;
+    box-sizing:border-box;
+    inset-inline-end: 0;
+    inline-size: 18px;
+
+}
+
+#Aparelhos {
+    position: relative;
+    margin-left: 28px;
+    width: 275px;
+    height: 20px;
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #38343D;
+    text-transform: capitalize;
+}
+
+#Counts {
+    position: absolute;
+    margin-top: 16px;
+    color: #797085;
+}
+
+#Clicar6 {
+    color: #797085;
+    margin-top: 16px;
+    position: absolute;
+    box-sizing:border-box;
+    inset-inline-end: 0;
+    inline-size: 18px;
+}
+
+#Contas {
+    position: relative;
+    margin-left: 28px;
+    margin-top: 16px;
+    width: 275px;
+    height: 20px;
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #38343D;
+    text-transform: capitalize;
+}
+
+/* 4ª parte (Logout) */
+
+#Help {
+    position: absolute;
+    margin: left;
+    color: #797085;
+}
+
+#Ajuda {
+    position: relative;
+    margin-left: 28px;
+    width: 275px;
+    height: 20px;
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #38343D;
+    text-transform: capitalize;
+}
+
+#Exit{
+    position: absolute;
+    margin-top: 16px;
+    color: #797085;
+}
+
+#Sair {
+    position: relative;
+    margin-left: 28px;
+    margin-top: 16px;
+    width: 275px;
+    height: 20px;
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #AA2222;
+    text-transform: capitalize;
+}
